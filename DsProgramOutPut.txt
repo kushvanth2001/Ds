@@ -1,0 +1,6 @@
+[ramesh 10 4.2 ,hajak, kushvanth 0 5.8 ,nothing, suresh 330 4.5 ,182h8g, mahesh 4550 5.0 ,jaoa43j]
+[kushvanth 0 5.8 ,nothing, suresh 330 4.5 ,182h8g, mahesh 4550 5.0 ,jaoa43j]
+[suresh 330 4.5 ,182h8g, mahesh 4550 5.0 ,jaoa43j, ramesh 10 4.2 ,hajak, kushvanth 0 5.8 ,nothing]
+[suresh 330 4.5 ,182h8g, mahesh 4550 5.0 ,jaoa43j, ramesh 10 4.2 ,hajak]
+false
+[suresh 330 4.5 ,182h8g, mahesh 4550 5.0 ,jaoa43j, ramesh 10 4.2 ,hajak]
